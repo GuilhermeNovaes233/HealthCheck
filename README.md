@@ -1,7 +1,7 @@
 # HealthCheck
 
 O que é Health Checks ?
-O Health Checks nada mais é que um middleware que nos fornecem um endpoint configurável que nos retorna o estado atual da aplicação.
+O Health Checks nada mais é que um middleware que nos fornece um endpoint configurável que retorna o estado atual da aplicação.
 
 Rota para visualizar HealthCheck
     
